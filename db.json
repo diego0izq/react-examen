@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {
+      "text": "Hacer tarea",
+      "id": "rDQYqWUv0kE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
